@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="z}TJP7?cZ4cE?PGLSCku">dood</variable><variable id=",M)25k,,UzEcO2VM+Jop">knuffel</variable><variable id="[^)Ez=|NyBaev((pcpX{">voeding</variable></variables><block type="pxt-on-start" id="i}za$P7Zm~aT?7:6#4$v" x="0" y="0"><statement name="HANDLER"><block type="led_set_display_mode" id="ROP^VY~4Dp@6dtjP!@Nh"><field name="mode">DisplayMode.BlackAndWhite</field><next><block type="basic_show_icon" id="Oqt~o]r%]OofdM^]4Jb6"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id=":l,8a)8srq^xO=ACDS7}"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="EQu1Iy%c!-3,qHpj-Yn."><value name="pause"><shadow type="timePicker" id="H.KuewQ)n]d$x4g^9b/$"><field name="ms">5000</field></shadow></value><next><block type="device_led_enable" id="VF[p+d,rMI{aZjoEC@Z,"><value name="on"><shadow type="logic_boolean" id="zaPD:}Pfx~1@}r^#fc0E"><field name="BOOL">TRUE</field></shadow></value><next><block type="device_stop_animation" id="qb:M9ptCVy,qw:WRL#un"></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
